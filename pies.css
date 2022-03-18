@@ -1,0 +1,33 @@
+html,body{
+    width: 100%;
+}
+
+body{
+    background-color: whitesmoke;
+    margin:0 2em 0 2em;
+}
+
+header,footer{
+    background-color: aquamarine;
+}
+
+aside,nav{
+    border: 2px solid aquamarine;
+} 
+
+main{
+    border: 2px solid aquamarine;
+}
+
+main img{
+    width: 100%;
+}
+.pies{
+    border: 2px solid aquamarine;
+    padding: 3px;
+}
+
+#pie3{
+    width: 320px;
+    height: 200px;
+}
